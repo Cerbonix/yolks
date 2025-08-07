@@ -92,6 +92,12 @@ is tagged correctly.
     * `ghcr.io/cerbonix/yolks:nodejs_20`
   * [`node21`](https://github.com/Cerbonix/yolks/tree/master/nodejs/21)
     * `ghcr.io/cerbonix/yolks:nodejs_21`
+  * [`node22`](https://github.com/Cerbonix/yolks/tree/master/nodejs/22)
+    * `ghcr.io/cerbonix/yolks:nodejs_22`
+  * [`node23`](https://github.com/Cerbonix/yolks/tree/master/nodejs/23)
+    * `ghcr.io/cerbonix/yolks:nodejs_23`
+  * [`node24`](https://github.com/Cerbonix/yolks/tree/master/nodejs/24)
+    * `ghcr.io/cerbonix/yolks:nodejs_24`
 * [`python`](https://github.com/Cerbonix/yolks/tree/master/python)
   * [`python3.7`](https://github.com/Cerbonix/yolks/tree/master/python/3.7)
     * `ghcr.io/cerbonix/yolks:python_3.7`
