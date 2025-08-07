@@ -22,9 +22,10 @@
 
 FROM        --platform=$TARGETOS/$TARGETARCH node:15-alpine
 
-LABEL       author="Matthew Penner" maintainer="matthew@pterodactyl.io"
+LABEL       author="Matthew Penner" maintainer="cerbonix@cerbonix.com"
+LABEL       description="Based on Pterodactyl Yolks - Original by Pterodactyl"
 
-LABEL       org.opencontainers.image.source="https://github.com/pterodactyl/yolks"
+LABEL       org.opencontainers.image.source="https://github.com/Cerbonix/yolks"
 LABEL       org.opencontainers.image.licenses=MIT
 
 RUN         apk add --update --no-cache ca-certificates curl ffmpeg git openssl sqlite tar tzdata \
